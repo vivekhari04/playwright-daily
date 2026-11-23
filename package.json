@@ -1,0 +1,22 @@
+{
+  "name": "playwright-daily",
+  "version": "1.0.0",
+  "description": "This repository documents my daily learning and hands-on practice with Playwright automation testing.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekhari04/playwright-daily.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekhari04/playwright-daily/issues"
+  },
+  "homepage": "https://github.com/vivekhari04/playwright-daily#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
